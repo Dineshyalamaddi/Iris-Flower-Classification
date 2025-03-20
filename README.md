@@ -7,7 +7,7 @@ This project classifies Iris flowers into three species: **Setosa, Versicolor, a
 - The dataset used is **IRIS.csv**, containing 150 samples with four features:  
   - Sepal Length, Sepal Width, Petal Length, and Petal Width.
 
-## ⚙️ Installation & Setup
+##  Installation & Setup
 To run this project on your local machine:
 1. Clone the repository:                                                                                                                                         
 git clone https://github.com/yalam/Iris-Flower-Classification.git  
